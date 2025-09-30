@@ -1,0 +1,9 @@
+name: ai-ecosystem
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+# Weitere Pakete nach Bedarf hinzufügen
